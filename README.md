@@ -34,7 +34,7 @@
 
 | Time | Journal | Model Name | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|----------|-------------|--------------|----------------|-----------|---------------|
-| 2019.07 | **JSTARS** | MLRSNet-CNN | [Multi-label remote sensing scene classification with convolutional networks](https://doi.org/10.1109/JSTARS.2019.2924567) | ResNet-50 | First large-scale multi-label RSSC benchmark | [GitHub](https://github.com/cugbrs/MLRSNet) |
+| 2019.01 | **ISPRS** | CA-Conv-BiLSTM | [Recurrently exploring class-wise attention in a hybrid convolutional and bidirectional LSTM network for multi-label aerial image classification](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention and bidirectional LSTM | [N/A] |
 | 2020.11 | **TGRS** | ML-GCN-RS | [Exploiting label correlations for multi-label remote sensing classification](https://doi.org/10.1109/TGRS.2020.2974567) | ResNet-101 | Graph convolution for label dependency | 🌟 [Paper](#) |
 | 2021.05 | **ISPRS** | ML-Transformer | [Multi-label classification with transformer encoder-decoder](https://doi.org/10.1016/j.isprsjprs.2021.05.011) | ViT-B/32 | Attention-based label reasoning | 🌟 [GitHub](#) |
 | 2022.06 | **RS** | RSMLFormer | [Multi-label transformer for remote sensing scene analysis](https://doi.org/10.3390/rs14061234) | Swin-T | Joint image–label embedding | 🌟 [Project](#) |
