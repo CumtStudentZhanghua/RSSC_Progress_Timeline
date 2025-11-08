@@ -16,7 +16,7 @@
 
 | Time | Model Name | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|-------------|--------------|----------------|-----------|---------------|
-| 2015.05 | CNN-RS | Deep learning-based classification of remote sensing scenes | AlexNet | Introduced CNNs for RSSC | [N/A] |
+| 2015.05 | CNN-RS | [Deep learning-based classification of remote sensing scenes](https://doi.org/10.1109/TGRS.2015.2406305) | AlexNet | Introduced CNNs for RSSC | [N/A] |
 | 2016.07 | VGG-RS | Remote sensing image scene classification based on deep features | VGG-16 | Transfer learning from ImageNet | [N/A] |
 | 2018.03 | ResNet-RS | Remote sensing scene classification with deep residual networks | ResNet-50 | Residual learning improves feature depth | [N/A] |
 | 2019.06 | DenseNet-RS | Remote sensing scene classification via dense connectivity | DenseNet-121 | Dense connections enhance feature reuse | [N/A] |
