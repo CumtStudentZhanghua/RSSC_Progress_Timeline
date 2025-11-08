@@ -14,9 +14,9 @@
 > Single-label scene classification assigns **one category** to each image.  
 > Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
-| Time | Journal | Model Name | Paper Title | Visual Encoder | Key Idea | Code/Project |
+| Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|----------|-------------|--------------|----------------|-----------|---------------|
-| 2015.05 | **TGRS** | CNN-RS | [Deep learning-based classification of remote sensing scenes](https://doi.org/10.1109/TGRS.2015.2406305) | AlexNet | Introduced CNNs for RSSC | [N/A] |
+| 2020.06 | **JSTARS** | Review Paper | [Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities](https://ieeexplore.ieee.org/document/9127795) | - | Review for RSSC | [N/A] |
 | 2016.07 | **JSTARS** | VGG-RS | [Remote sensing image scene classification based on deep features](https://doi.org/10.1109/JSTARS.2016.2575728) | VGG-16 | Transfer learning from ImageNet | [N/A] |
 | 2018.03 | **ISPRS** | ResNet-RS | [Remote sensing scene classification with deep residual networks](https://doi.org/10.1016/j.isprsjprs.2018.03.007) | ResNet-50 | Residual learning improves feature depth | [N/A] |
 | 2019.06 | **RS** | DenseNet-RS | [Remote sensing scene classification via dense connectivity](https://doi.org/10.3390/rs11111234) | DenseNet-121 | Dense connections enhance feature reuse | [N/A] |
@@ -32,7 +32,7 @@
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
-| Time | Journal | Model Name | Paper Title | Visual Encoder | Key Idea | Code/Project |
+| Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|----------|-------------|--------------|----------------|-----------|---------------|
 | 2019.01 | **ISPRS** | CA-Conv-BiLSTM | [Recurrently exploring class-wise attention in a hybrid convolutional and bidirectional LSTM network for multi-label aerial image classification](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
 | 2020.11 | **TGRS** | ML-GCN-RS | [Exploiting label correlations for multi-label remote sensing classification](https://doi.org/10.1109/TGRS.2020.2974567) | ResNet-101 | Graph convolution for label dependency | 🌟 [Paper](#) |
