@@ -17,7 +17,7 @@
 
 | Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|----------|-------------|--------------|----------------|-----------|---------------|
-| 2016.07 | **JSTARS** | VGG-RS | [Remote sensing image scene classification based on deep features](https://doi.org/10.1109/JSTARS.2016.2575728) | VGG-16 | Transfer learning from ImageNet | [N/A] |
+| 2020.07 | **IGARSS 2020** | GLC | [Remote Sensing Scene Classification Based on Global and Local Consistent Network](https://ieeexplore.ieee.org/document/9323281) | VGG16 | It uses a weight-shared Siamese network on 180° rotated image pairs, combines global and SE-modulated local features, and employs an MSE loss to align attention maps, forcing the model to learn rotation-robust representations | [N/A] |
 | 2018.03 | **ISPRS** | ResNet-RS | [Remote sensing scene classification with deep residual networks](https://doi.org/10.1016/j.isprsjprs.2018.03.007) | ResNet-50 | Residual learning improves feature depth | [N/A] |
 | 2019.06 | **RS** | DenseNet-RS | [Remote sensing scene classification via dense connectivity](https://doi.org/10.3390/rs11111234) | DenseNet-121 | Dense connections enhance feature reuse | [N/A] |
 | 2020.11 | **TGRS** | TransRS | [Transformer-based Remote Sensing Scene Classification](https://doi.org/10.1109/TGRS.2020.3030019) | ViT-B/16 | Global self-attention modeling | [![GitHub stars](https://img.shields.io/github/stars/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs?style=social)](https://github.com/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs?tab=readme-ov-file#change-captioning) |
