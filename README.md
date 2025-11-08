@@ -1,20 +1,14 @@
-# RSSC_Progress_Timeline
-Timeline and evolution of Remote Sensing Scene Classification (RSSC)
 # 🛰️ RSSC_Progress_Timeline
 ## Timeline and Evolution of Remote Sensing Scene Classification (RSSC)
 
 ---
 
 ## 📖 Table of Contents
-- [📚 Remote Sensing Scene Classification (RSSC) Progress](#-remote-sensing-scene-classification-rssc-progress)
+- [📚 Single Label Methods](#-remote-sensing-scene-classification-rssc-progress)
   - [📅 Early Deep Learning Era (2015–2018)](#-early-deep-learning-era-20152018)
   - [🚀 Transformer and Multi-Label Era (2019–2021)](#-transformer-and-multi-label-era-20192021)
   - [🧠 Foundation Models and Vision-Language Fusion (2022–2024)](#-foundation-models-and-vision-language-fusion-20222024)
-- [🛰️ Dataset](#-dataset)
-- [👨‍🏫 Large Language Models Meets Temporal Images](#-large-language-models-meets-temporal-images)
-- [💻 Others](#-others)
 - [🖊️ Citation](#-citation)
-- [🐲 Contact](#-contact)
 
 ---
 
@@ -34,55 +28,6 @@ Timeline and evolution of Remote Sensing Scene Classification (RSSC)
 
 ---
 
-## 🧭 Development Phases
-
-### 📅 Early Deep Learning Era (2015–2018)
-> CNN-based models dominated the early stage of RSSC, focusing on feature extraction and transfer learning from ImageNet.
-
-### 🚀 Transformer and Multi-Label Era (2019–2021)
-> Introduction of transformer backbones and multi-label classification frameworks improved robustness and interpretability.
-
-### 🧠 Foundation Models and Vision-Language Fusion (2022–2024)
-> With the emergence of CLIP, BLIP, and GPT-like multimodal models, RSSC evolved toward semantic understanding and cross-modal reasoning.
-
----
-
-## 🛰️ Dataset
-
-| Dataset Name | Year | Type | Description | Link |
-|---------------|------|------|--------------|------|
-| AID | 2017 | Single-Label | Aerial Image Dataset with 10k images | [Paper](https://arxiv.org/abs/1708.00133) |
-| NWPU-RESISC45 | 2017 | Single-Label | Large-scale scene dataset with 45 categories | [Website](http://www.escience.cn/people/yangwen/RESISC45.html) |
-| UCM | 2010 | Single-Label | UC Merced Land Use Dataset | [Link](http://weegee.vision.ucmerced.edu/datasets/landuse.html) |
-| MLRSNet | 2020 | Multi-Label | Multi-label remote sensing benchmark | [GitHub](https://github.com/cugbrs/MLRSNet) |
-| BigEarthNet | 2019 | Multi-Label | Sentinel-2 large-scale multi-label dataset | [Link](https://bigearth.net/) |
-
----
-
-## 👨‍🏫 Large Language Models Meets Temporal Images
-
-| Time | Model Name | Paper Title | Core Idea | Link |
-|------|-------------|--------------|------------|------|
-| 2023.06 | RS-CLIP | Aligning remote sensing images and captions | Vision-Language Pretraining | [GitHub](#) |
-| 2024.01 | RSGPT | Instruction-tuned vision-language model for RS | Task-specific finetuning | [Paper](#) |
-| 2024.10 | RS-Agent | LLM-driven agent for remote sensing analysis | Multi-task generalization | [Project](#) |
-
----
-
-## 💻 Others
-- 📄 Benchmarks and evaluation metrics for RSSC  
-- 📊 Performance comparison across architectures  
-- 🧩 Links to related datasets and repositories  
-
----
 
 ## 🖊️ Citation
-If you use this repository, please cite it as:
-
-```bibtex
-@misc{rssc_timeline_2025,
-  author = {Your Name},
-  title = {RSSC Progress Timeline: Evolution of Remote Sensing Scene Classification},
-  year = {2025},
-  url = {https://github.com/YourUsername/RSSC_Progress_Timeline}
-}
+If you use this repository, please cite the corresponding papers
