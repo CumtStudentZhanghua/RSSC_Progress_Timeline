@@ -6,6 +6,7 @@
 ## 📖 Table of Contents
 - [🌤️ Single-Label Methods](#-single-label-methods)
 - [🌈 Multi-Label-Methods](#-multi-label-methods)
+- [🌈 Review-Papers](#-review-papers)
 - [🖊️ Citation](#-citation)
 
 ---
@@ -42,6 +43,22 @@
 | 2024.01 | **JSTARS** | RS-Mamba | [Selective state-space model for multi-label remote sensing classification](https://doi.org/10.1109/JSTARS.2024.3245678) | RS-Mamba | Foundation-style dynamic label modeling | 🌟 [Paper](#) |
 
 ---
+
+## 🌈 Review-Papers
+> Multi-label scene classification allows **multiple categories per image**,  
+> reflecting complex land-use mixtures and semantic correlations between classes.
+
+| Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
+|------|----------|-------------|--------------|----------------|-----------|---------------|
+| 2019.01 | **ISPRS** | CA-Conv-BiLSTM | [Recurrently exploring class-wise attention in a hybrid convolutional and bidirectional LSTM network for multi-label aerial image classification](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
+| 2020.11 | **TGRS** | ML-GCN-RS | [Exploiting label correlations for multi-label remote sensing classification](https://doi.org/10.1109/TGRS.2020.2974567) | ResNet-101 | Graph convolution for label dependency | 🌟 [Paper](#) |
+| 2021.05 | **ISPRS** | ML-Transformer | [Multi-label classification with transformer encoder-decoder](https://doi.org/10.1016/j.isprsjprs.2021.05.011) | ViT-B/32 | Attention-based label reasoning | 🌟 [GitHub](#) |
+| 2022.06 | **RS** | RSMLFormer | [Multi-label transformer for remote sensing scene analysis](https://doi.org/10.3390/rs14061234) | Swin-T | Joint image–label embedding | 🌟 [Project](#) |
+| 2023.03 | **TGRS** | RS-VLFormer | [Vision-language transformer for multi-label RSSC](https://doi.org/10.1109/TGRS.2023.3234567) | CLIP-ViT | Aligning image and label semantics | 🌟 [GitHub](#) |
+| 2024.01 | **JSTARS** | RS-Mamba | [Selective state-space model for multi-label remote sensing classification](https://doi.org/10.1109/JSTARS.2024.3245678) | RS-Mamba | Foundation-style dynamic label modeling | 🌟 [Paper](#) |
+
+---
+
 
 ## 🖊️ Citation
 If you use this repository, please cite the corresponding papers
