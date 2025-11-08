@@ -20,7 +20,7 @@
 | 2016.07 | **JSTARS** | VGG-RS | [Remote sensing image scene classification based on deep features](https://doi.org/10.1109/JSTARS.2016.2575728) | VGG-16 | Transfer learning from ImageNet | [N/A] |
 | 2018.03 | **ISPRS** | ResNet-RS | [Remote sensing scene classification with deep residual networks](https://doi.org/10.1016/j.isprsjprs.2018.03.007) | ResNet-50 | Residual learning improves feature depth | [N/A] |
 | 2019.06 | **RS** | DenseNet-RS | [Remote sensing scene classification via dense connectivity](https://doi.org/10.3390/rs11111234) | DenseNet-121 | Dense connections enhance feature reuse | [N/A] |
-| 2020.11 | **TGRS** | TransRS | [Transformer-based Remote Sensing Scene Classification](https://doi.org/10.1109/TGRS.2020.3030019) | ViT-B/16 | Global self-attention modeling | 🌟 [GitHub](#) |
+| 2020.11 | **TGRS** | TransRS | [Transformer-based Remote Sensing Scene Classification](https://doi.org/10.1109/TGRS.2020.3030019) | ViT-B/16 | Global self-attention modeling | [![GitHub stars](https://img.shields.io/github/stars/<USERNAME>/<REPO>?style=social)](https://github.com/<USERNAME>/<REPO>) |
 | 2021.05 | **JSTARS** | SwinRS | [Hierarchical Transformer for remote sensing scene understanding](https://doi.org/10.1109/JSTARS.2021.3078910) | Swin-T | Local–global hybrid attention | 🌟 [Paper](#) |
 | 2022.09 | **ISPRS** | RSViT | [Vision Transformer for Remote Sensing Scene Understanding](https://doi.org/10.1016/j.isprsjprs.2022.09.014) | ViT-B/32 | Pretrained transformer for large-scale RSSC | 🌟 [Project](#) |
 | 2023.05 | **RS** | GeoCLIP | [Remote sensing image-text contrastive learning](https://doi.org/10.3390/rs15051234) | CLIP-ViT | Cross-modal alignment for scene semantics | 🌟 [GitHub](#) |
