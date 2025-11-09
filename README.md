@@ -53,6 +53,9 @@
 | 2023.11 | **TGRS** | HFAM | [A Hyperparameter-Free Attention Module Based on Feature Map Mathematical Calculation for Remote-Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330628) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars]
 (https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
+| 2024.01 | **JSTARS** | PFFGCN | [Progressive Feature Fusion Framework Based on Graph Convolutional Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10381852) | xxx | xxx | [N/A] |
+| 2024.01 | **JSTARS** | CASD | [Class-Aware Self-Distillation for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10361538) | xxx | xxx | [N/A] |
+| 2024.01 | **JSTARS** | LSMNet | [Large Kernel Separable Mixed ConvNet for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10399773) | xxx | xxx | [N/A] |
 | 2024.01 | **GRSL** | PSCLI-TF | [PSCLI-TF: Position-Sensitive Cross-Layer Interactive Transformer Model for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10415469) | xxx | xxx | [N/A] |
 | 2024.05 | **GRSL** | CLENet | [Label Embedding Based on Interclass Correlation Mining for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10526291) | xxx | xxx | [N/A] |
 | 2024.05 | **TGRS** | SDT2Net | [Remote Sensing Scene Classification via Second-Order Differentiable Token Transformer Network](https://ieeexplore.ieee.org/document/10542965) | xxx | xxx | [![GitHub stars](https://img.shields.io/github/stars/RSIP-NJUPT/SDT2Net?style=social)](https://github.com/RSIP-NJUPT/SDT2Net) |
@@ -61,6 +64,9 @@
 | 2024.09 | **GRSL** | SAF-Net | [Remote Sensing Scene Classification Based on Semantic-Aware Fusion Network](https://ieeexplore.ieee.org/document/10700843) | xxx | xxx | [N/A] |
 | 2024.10 | **JSTARS** | HGTNet | [A Hierarchical Graph-Enhanced Transformer Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10742489) | xxx | xxx | [N/A] |
 | 2024.10 | **遥感学报** | ADC-CPANet | [ADC-CPANet：一种局部—全局特征融合的遥感图像分类方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20232658/) | xxx | xxx | [N/A] |
+| 2024.12 | **RS** | MSCT-HCST | [Multiple Hierarchical Cross-Scale Transformer for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/1/42) | xxx | xxx | [N/A] |
+| 2025.02 | **TGRS** | LSDGNet | [Label Semantic Dynamic Guidance Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10879025) | xxx | xxx | [N/A] |
+
 
 
 
@@ -78,11 +84,13 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2019.12 | **TGRS** | AL-RN-CNN | [Relation Network for Multilabel Aerial Image Classification](https://ieeexplore.ieee.org/document/8986556) | VGG/GoogLeNet/ResNet | Label-wise Feature Parcels, Attentional Region Extraction, and Convolutional Relational Inference | [N/A] |
 | 2020.09 | **ISPRS** | MLRSNet | [MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding](https://www.sciencedirect.com/science/article/pii/S0924271620302677) | - | Multi Label Benchmark | [![GitHub stars](https://img.shields.io/github/stars/cugbrs/MLRSNet?style=social)](https://github.com/cugbrs/MLRSNet) |
 | 2021.08 | **TGRS** | MultiScene | [MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images](https://ieeexplore.ieee.org/document/9537917) | - | Multi Label Benchmark | [MultiScene](https://gitlab.lrz.de/ai4eo/reasoning/multiscene) |
+| 2022.03 | **AAAI 2024** | MulSupCon | [Multi-Label Supervised Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29619) | XXX | XXX | [N/A] |
 | 2022.04 | **TGRS** | SCIDA | [SCIDA: Self-Correction Integrated Domain Adaptation From Single- to Multi-Label Aerial Images](https://ieeexplore.ieee.org/document/9762917) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/Ryan315/Single2multi-DA?style=social)](https://github.com/Ryan315/Single2multi-DA) |
+| 2024.06 | **TGRS** | GMFANet | [Gradient-Guided Multiscale Focal Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10599200) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/bling2beyond/GMFANet?style=social)](https://github.com/bling2beyond/GMFANet) |
 | 2024.07 | **TGRS** | Multitask Fine-Grained Feature Mining | [Multitask Fine-Grained Feature Mining for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10595130) | XXX | ML-GCN + Graph Transformer Layer + Class-Specific Feature Extraction + Multi-scale Fusion Strategy and Visual Attention Mechanism | [N/A] |
+| 2024.10 | **TGRS** | ML-HKG | [Hierarchical Knowledge Graph for Multilabel Classification of Remote Sensing Images](https://ieeexplore.ieee.org/document/10741275) | XXX | XXX | [N/A] |
 | 2024.10 | **TGRS** | CAGRN | [Cross-Attention-Driven Adaptive Graph Relational Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10707603) | XXX | XXX | [N/A] |
-
-
+| 2025.01 | **IEEE Transactions on Circuits and Systems for Video Technology（IEEE TCSVT）** | MLMamba | [MLMamba: A Mamba-Based Efficient Network for Multi-Label Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10857393) | XXX | XXX | [MLMamba](https://github.com/TangXu-Group/multilabelRSSC/tree/main/MLMamba) |
 
 ---
 
