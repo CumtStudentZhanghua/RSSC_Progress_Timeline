@@ -70,6 +70,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2020.09 | **ISPRS** | MLRSNet | [MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding](https://www.sciencedirect.com/science/article/pii/S0924271620302677) | - | Multi Label Benchmark | [![GitHub stars](https://img.shields.io/github/stars/cugbrs/MLRSNet?style=social)](https://github.com/cugbrs/MLRSNet) |
 | 2021.08 | **TGRS** | MultiScene | [MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images](https://ieeexplore.ieee.org/document/9537917) | - | Multi Label Benchmark | [MultiScene](https://gitlab.lrz.de/ai4eo/reasoning/multiscene) |
 | 2022.04 | **TGRS** | SCIDA | [SCIDA: Self-Correction Integrated Domain Adaptation From Single- to Multi-Label Aerial Images](https://ieeexplore.ieee.org/document/9762917) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/Ryan315/Single2multi-DA?style=social)](https://github.com/Ryan315/Single2multi-DA) |
+| 2024.10 | **TGRS** | CAGRN | [Cross-Attention-Driven Adaptive Graph Relational Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10707603) | XXX | XXX | [N/A] |
 
 
 
