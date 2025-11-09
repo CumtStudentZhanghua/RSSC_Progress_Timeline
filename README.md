@@ -11,7 +11,7 @@
 
 ---
 
-## 🌤️ Single-Label Methods
+## Single-Label Methods
 > Single-label scene classification assigns **one category** to each image.  
 > Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌈 Multi-Label Methods
+## Multi-Label Methods
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🌈 Review-Papers
+## Review-Papers
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
