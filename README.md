@@ -50,8 +50,11 @@
 | 2023.07 | **TGRS** | MGSNet | [Remote-Sensing Scene Classification via Multistage Self-Guided Separation Network](https://ieeexplore.ieee.org/document/10184498) | xxx | xxx | [N/A] |
 | 2023.08 | **GRSL** | CSCANet | [Contextual Spatial-Channel Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10216315) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | HFFT-PD | [Hierarchical Feature Fusion of Transformer With Patch Dilating for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/10314557) | xxx | xxx | [N/A] |
-| 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars](https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
-
+| 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars]
+(https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
+| 2024.01 | **GRSL** | PSCLI-TF | [PSCLI-TF: Position-Sensitive Cross-Layer Interactive Transformer Model for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10415469) | xxx | xxx | [[N/A] |
+| 2024.05 | **GRSL** | CLENet | [Label Embedding Based on Interclass Correlation Mining for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10526291) | xxx | xxx | [[N/A] |
+| 2024.07 | **IGARSS 2024** | MST | [Multi-Scale Sparse Transformer for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10642862) | xxx | xxx | [[N/A] |
 
 
 
@@ -70,6 +73,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2020.09 | **ISPRS** | MLRSNet | [MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding](https://www.sciencedirect.com/science/article/pii/S0924271620302677) | - | Multi Label Benchmark | [![GitHub stars](https://img.shields.io/github/stars/cugbrs/MLRSNet?style=social)](https://github.com/cugbrs/MLRSNet) |
 | 2021.08 | **TGRS** | MultiScene | [MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images](https://ieeexplore.ieee.org/document/9537917) | - | Multi Label Benchmark | [MultiScene](https://gitlab.lrz.de/ai4eo/reasoning/multiscene) |
 | 2022.04 | **TGRS** | SCIDA | [SCIDA: Self-Correction Integrated Domain Adaptation From Single- to Multi-Label Aerial Images](https://ieeexplore.ieee.org/document/9762917) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/Ryan315/Single2multi-DA?style=social)](https://github.com/Ryan315/Single2multi-DA) |
+| 2024.07 | **TGRS** | Multitask Fine-Grained Feature Mining | [Multitask Fine-Grained Feature Mining for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10595130) | XXX | ML-GCN + Graph Transformer Layer + Class-Specific Feature Extraction + Multi-scale Fusion Strategy and Visual Attention Mechanism | [N/A] |
 | 2024.10 | **TGRS** | CAGRN | [Cross-Attention-Driven Adaptive Graph Relational Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10707603) | XXX | XXX | [N/A] |
 
 
@@ -87,6 +91,8 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
 | 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
 | 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
+
+
 
 ---
 
