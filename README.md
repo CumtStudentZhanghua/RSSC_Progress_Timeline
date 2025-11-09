@@ -31,6 +31,10 @@
 | 2022.01 | **JSTARS** | GCSANet | [GCSANet: A Global Context Spatial Attention Deep Learning Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/9678028) | DenseNet121 | Using mixup data augmentation method, and design a global context spatial attention module which is integrated into the everybolck of DenseNet121 | [![GitHub stars](https://img.shields.io/github/stars/ShubingOuyangcug/GCSANet?style=social)](https://github.com/ShubingOuyangcug/GCSANet) |
 | 2022.01 | **GRSL** | LML | [Remote Sensing Scene Classification by Local–Global Mutual Learning](https://ieeexplore.ieee.org/abstract/document/9709818) | ResNet/GoogleNet | Generate local regions from the original image using a heat map derived from deep CNN features, and train a two-branch network where global and local branches mutually learn to enhance complementary feature representation | [N/A] |
 | 2022.03 | **TGRS** | SCViT | [SCViT: A Spatial-Channel Feature Preserving Vision Transformer for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/9729845) | xxx | xxx | [N/A] |
+| 2022.03 | **RS** | MopNet-GCN-ResNet50 | [Multi-Output Network Combining GNN and CNN for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/14/6/1478) | xxx | xxx | [N/A] |
+| 2022.04 | **GRSL** | MLF2Net_SAGM | [Multilayer Feature Fusion Network With Spatial Attention and Gated Mechanism for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9770786) | xxx | xxx | [N/A] |
+| 2022.05 | **GRSL** | MITformer | [MITformer: A Multiinstance Vision Transformer for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/9777975) | xxx | xxx | [N/A] |
+
 
 
 MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
