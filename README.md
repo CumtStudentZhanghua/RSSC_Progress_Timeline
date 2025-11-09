@@ -51,8 +51,7 @@
 | 2023.08 | **GRSL** | CSCANet | [Contextual Spatial-Channel Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10216315) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | HFFT-PD | [Hierarchical Feature Fusion of Transformer With Patch Dilating for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/10314557) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | HFAM | [A Hyperparameter-Free Attention Module Based on Feature Map Mathematical Calculation for Remote-Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330628) | xxx | xxx | [N/A] |
-| 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars]
-(https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
+| 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars](https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
 | 2024.01 | **JSTARS** | PFFGCN | [Progressive Feature Fusion Framework Based on Graph Convolutional Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10381852) | xxx | xxx | [N/A] |
 | 2024.01 | **JSTARS** | CASD | [Class-Aware Self-Distillation for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10361538) | xxx | xxx | [N/A] |
 | 2024.01 | **JSTARS** | LSMNet | [Large Kernel Separable Mixed ConvNet for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10399773) | xxx | xxx | [N/A] |
