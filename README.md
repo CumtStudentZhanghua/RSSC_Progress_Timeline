@@ -66,6 +66,7 @@
 | 2024.10 | **遥感学报** | ADC-CPANet | [ADC-CPANet：一种局部—全局特征融合的遥感图像分类方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20232658/) | xxx | xxx | [N/A] |
 | 2024.12 | **RS** | MSCT-HCST | [Multiple Hierarchical Cross-Scale Transformer for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/1/42) | xxx | xxx | [N/A] |
 | 2025.02 | **TGRS** | LSDGNet | [Label Semantic Dynamic Guidance Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10879025) | xxx | xxx | [N/A] |
+| 2025.02 | **RS** | STMSF | [STMSF: Swin Transformer with Multi-Scale Fusion for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/4/668) | xxx | xxx | [N/A] |
 
 
 
@@ -90,7 +91,9 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2024.07 | **TGRS** | Multitask Fine-Grained Feature Mining | [Multitask Fine-Grained Feature Mining for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10595130) | XXX | ML-GCN + Graph Transformer Layer + Class-Specific Feature Extraction + Multi-scale Fusion Strategy and Visual Attention Mechanism | [N/A] |
 | 2024.10 | **TGRS** | ML-HKG | [Hierarchical Knowledge Graph for Multilabel Classification of Remote Sensing Images](https://ieeexplore.ieee.org/document/10741275) | XXX | XXX | [N/A] |
 | 2024.10 | **TGRS** | CAGRN | [Cross-Attention-Driven Adaptive Graph Relational Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10707603) | XXX | XXX | [N/A] |
+| 2025.01 | **TGRS** | SFIN | [Semantic-Assisted Feature Integration Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10802953) | XXX | XXX | [SFIN](https://github.com/TangXu-Group/multilabelRSSC/tree/main/SFIN) |
 | 2025.01 | **IEEE Transactions on Circuits and Systems for Video Technology（IEEE TCSVT）** | MLMamba | [MLMamba: A Mamba-Based Efficient Network for Multi-Label Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10857393) | XXX | XXX | [MLMamba](https://github.com/TangXu-Group/multilabelRSSC/tree/main/MLMamba) |
+
 
 ---
 
@@ -106,6 +109,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
 | 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
 | 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
+| 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] |
 
 
 ---
