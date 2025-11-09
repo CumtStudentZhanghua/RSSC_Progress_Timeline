@@ -50,6 +50,7 @@
 | 2023.07 | **TGRS** | MGSNet | [Remote-Sensing Scene Classification via Multistage Self-Guided Separation Network](https://ieeexplore.ieee.org/document/10184498) | xxx | xxx | [N/A] |
 | 2023.08 | **GRSL** | CSCANet | [Contextual Spatial-Channel Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10216315) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | HFFT-PD | [Hierarchical Feature Fusion of Transformer With Patch Dilating for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/10314557) | xxx | xxx | [N/A] |
+| 2023.11 | **TGRS** | HFAM | [A Hyperparameter-Free Attention Module Based on Feature Map Mathematical Calculation for Remote-Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330628) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars]
 (https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
 | 2024.01 | **GRSL** | PSCLI-TF | [PSCLI-TF: Position-Sensitive Cross-Layer Interactive Transformer Model for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10415469) | xxx | xxx | [N/A] |
@@ -57,8 +58,9 @@
 | 2024.05 | **TGRS** | SDT2Net | [Remote Sensing Scene Classification via Second-Order Differentiable Token Transformer Network](https://ieeexplore.ieee.org/document/10542965) | xxx | xxx | [![GitHub stars](https://img.shields.io/github/stars/RSIP-NJUPT/SDT2Net?style=social)](https://github.com/RSIP-NJUPT/SDT2Net) |
 | 2024.07 | **IGARSS 2024** | MST | [Multi-Scale Sparse Transformer for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10642862) | xxx | xxx | [N/A] |
 | 2024.07 | **IGARSS 2024** | MCRNet | [Remote Sensing Image Scene Classification With Multi-View Collaborative Representation Network](https://ieeexplore.ieee.org/document/10640773) | xxx | xxx | [N/A] |
+| 2024.09 | **GRSL** | SAF-Net | [Remote Sensing Scene Classification Based on Semantic-Aware Fusion Network](https://ieeexplore.ieee.org/document/10700843) | xxx | xxx | [N/A] |
 | 2024.10 | **JSTARS** | HGTNet | [A Hierarchical Graph-Enhanced Transformer Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10742489) | xxx | xxx | [N/A] |
-| 2024.10 | **JSTARS** | XXX | [A Hierarchical Graph-Enhanced Transformer Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10742489) | xxx | xxx | [N/A] |
+| 2024.10 | **遥感学报** | ADC-CPANet | [ADC-CPANet：一种局部—全局特征融合的遥感图像分类方法](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20232658/) | xxx | xxx | [N/A] |
 
 
 
