@@ -42,6 +42,7 @@
 | 2019.11 | **IGARSS 2019** | LR-CNN | [Label Relation Inference for Multi-Label Aerial Image Classification](https://ieeexplore.ieee.org/document/8898934) | VGG/GoogLeNet/ResNet | Label-wise feature extraction and Label Relational inference | [N/A] |
 | 2019.12 | **TGRS** | AL-RN-CNN | [Relation Network for Multilabel Aerial Image Classification](https://ieeexplore.ieee.org/document/8986556) | VGG/GoogLeNet/ResNet | Label-wise Feature Parcels, Attentional Region Extraction, and Convolutional Relational Inference | [N/A] |
 | 2020.09 | **ISPRS** | MLRSNet | [MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding](https://www.sciencedirect.com/science/article/pii/S0924271620302677) | - | Multi Label Benchmark | [![GitHub stars](https://img.shields.io/github/stars/cugbrs/MLRSNet?style=social)](https://github.com/cugbrs/MLRSNet) |
+| 2021.08 | **TGRS** | MultiScene | [MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images](https://ieeexplore.ieee.org/document/9537917) | - | Multi Label Benchmark | [MultiScene](https://gitlab.lrz.de/ai4eo/reasoning/multiscene) |
 | 2022.06 | **RS** | RSMLFormer | [Multi-label transformer for remote sensing scene analysis](https://doi.org/10.3390/rs14061234) | Swin-T | Joint image–label embedding | 🌟 [Project](#) |
 | 2023.03 | **TGRS** | RS-VLFormer | [Vision-language transformer for multi-label RSSC](https://doi.org/10.1109/TGRS.2023.3234567) | CLIP-ViT | Aligning image and label semantics | 🌟 [GitHub](#) |
 | 2024.01 | **JSTARS** | RS-Mamba | [Selective state-space model for multi-label remote sensing classification](https://doi.org/10.1109/JSTARS.2024.3245678) | RS-Mamba | Foundation-style dynamic label modeling | 🌟 [Paper](#) |
@@ -56,12 +57,8 @@
 |------|----------|-------------|--------------|----------------|-----------|---------------|
 | 2019.05 | **Applied Sciences** | Review Paper | [A Survey on Deep Learning-Driven Remote Sensing Image Scene Understanding: Scene Classification, Scene Retrieval and Scene-Guided Object Detection](https://www.mdpi.com/2076-3417/9/10/2110) | - | Review for RSSC | [N/A] |
 | 2020.06 | **JSTARS** | Review Paper | [Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities](https://ieeexplore.ieee.org/document/9127795) | - | Review for RSSC | [N/A] |
-| 2021.01 | **fafa** | Review Paper | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
-| 2020.11 | **TGRS** | ML-GCN-RS | [Exploiting label correlations for multi-label remote sensing classification](https://doi.org/10.1109/TGRS.2020.2974567) | ResNet-101 | Graph convolution for label dependency | 🌟 [Paper](#) |
-| 2021.05 | **ISPRS** | ML-Transformer | [Multi-label classification with transformer encoder-decoder](https://doi.org/10.1016/j.isprsjprs.2021.05.011) | ViT-B/32 | Attention-based label reasoning | 🌟 [GitHub](#) |
-| 2022.06 | **RS** | RSMLFormer | [Multi-label transformer for remote sensing scene analysis](https://doi.org/10.3390/rs14061234) | Swin-T | Joint image–label embedding | 🌟 [Project](#) |
-| 2023.03 | **TGRS** | RS-VLFormer | [Vision-language transformer for multi-label RSSC](https://doi.org/10.1109/TGRS.2023.3234567) | CLIP-ViT | Aligning image and label semantics | 🌟 [GitHub](#) |
-| 2024.01 | **JSTARS** | RS-Mamba | [Selective state-space model for multi-label remote sensing classification](https://doi.org/10.1109/JSTARS.2024.3245678) | RS-Mamba | Foundation-style dynamic label modeling | 🌟 [Paper](#) |
+| 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
+
 
 ---
 
