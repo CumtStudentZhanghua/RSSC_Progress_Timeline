@@ -52,9 +52,13 @@
 | 2023.11 | **TGRS** | HFFT-PD | [Hierarchical Feature Fusion of Transformer With Patch Dilating for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/10314557) | xxx | xxx | [N/A] |
 | 2023.11 | **TGRS** | CDLNet | [CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10330735) | xxx | xxx | [![GitHub stars]
 (https://img.shields.io/github/liuofficial/CDLNet/CrossViT?style=social)](https://github.com/liuofficial/CDLNet) |
-| 2024.01 | **GRSL** | PSCLI-TF | [PSCLI-TF: Position-Sensitive Cross-Layer Interactive Transformer Model for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10415469) | xxx | xxx | [[N/A] |
-| 2024.05 | **GRSL** | CLENet | [Label Embedding Based on Interclass Correlation Mining for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10526291) | xxx | xxx | [[N/A] |
-| 2024.07 | **IGARSS 2024** | MST | [Multi-Scale Sparse Transformer for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10642862) | xxx | xxx | [[N/A] |
+| 2024.01 | **GRSL** | PSCLI-TF | [PSCLI-TF: Position-Sensitive Cross-Layer Interactive Transformer Model for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10415469) | xxx | xxx | [N/A] |
+| 2024.05 | **GRSL** | CLENet | [Label Embedding Based on Interclass Correlation Mining for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10526291) | xxx | xxx | [N/A] |
+| 2024.05 | **TGRS** | SDT2Net | [Remote Sensing Scene Classification via Second-Order Differentiable Token Transformer Network](https://ieeexplore.ieee.org/document/10542965) | xxx | xxx | [![GitHub stars](https://img.shields.io/github/stars/RSIP-NJUPT/SDT2Net?style=social)](https://github.com/RSIP-NJUPT/SDT2Net) |
+| 2024.07 | **IGARSS 2024** | MST | [Multi-Scale Sparse Transformer for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10642862) | xxx | xxx | [N/A] |
+| 2024.07 | **IGARSS 2024** | MCRNet | [Remote Sensing Image Scene Classification With Multi-View Collaborative Representation Network](https://ieeexplore.ieee.org/document/10640773) | xxx | xxx | [N/A] |
+| 2024.10 | **JSTARS** | HGTNet | [A Hierarchical Graph-Enhanced Transformer Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10742489) | xxx | xxx | [N/A] |
+| 2024.10 | **JSTARS** | XXX | [A Hierarchical Graph-Enhanced Transformer Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10742489) | xxx | xxx | [N/A] |
 
 
 
@@ -91,7 +95,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
 | 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
 | 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
-
+| 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
 
 
 ---
