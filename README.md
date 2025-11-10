@@ -4,10 +4,10 @@
 ---
 
 ## 📖 Table of Contents
-- [1.Single-Label Methods](#-single-label-methods)
-- [2.Multi-Label-Methods](#-multi-label-methods)
-- [3.Review-Papers](#-review-papers)
-- [4.Citation](#-citation)
+- [1.Single-Label Methods](#-1.-single-label-methods)
+- [2.Multi-Label-Methods](#-2.-multi-label-methods)
+- [3.Review-Papers](#-3.-review-papers)
+- [4.Citation](#-4.-citation)
 
 ---
 
@@ -71,6 +71,8 @@
 | 2025.02 | **RS** | STMSF | [STMSF: Swin Transformer with Multi-Scale Fusion for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/4/668) | xxx | xxx | [N/A] |
 | 2025.02 | **RS** | ATMformer | [ATMformer: An Adaptive Token Merging Vision Transformer for Remote Sensing Image Scene Classification](https://www.mdpi.com/2072-4292/17/4/660) | XXX | XXX | [N/A] |
 | 2025.03 | **TGRS** | SceneFormer | [SceneFormer: Neural Architecture Search of Transformers for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10942436) | XXX | XXX | [N/A] |
+| 2025.04 | **中国图象图形学报** |  | [用于遥感场景分类的全局—局部特征耦合网络](https://ieeexplore.ieee.org/document/10942436) | XXX | XXX | [N/A] |
+| 2025.07 | **JSTARS** | ACTFormer | [ACTFormer: A Transformer Network With Attention and Convolutional Synergy for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/11080299) | XXX | XXX | [N/A] |
 
 
 
@@ -113,6 +115,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
 | 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
 | 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
+| 2024.10 | **航天返回与遥感** | Review Paper | [遥感影像场景分类研究进展](https://htfhyyg.spacejournal.cn/article/doi/10.3969/j.issn.1009-8518.2024.04.013) | - | Review for RSSC | [N/A] |
 | 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
 | 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] |
 
