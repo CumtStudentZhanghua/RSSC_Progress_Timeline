@@ -103,7 +103,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 
 ---
 
-## 4️⃣ Review Papers
+## 3️⃣ Review & Survey Papers
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
@@ -122,5 +122,5 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 ---
 
 
-## 4.Citation
+## 4️⃣ Citation
 If you use this repository, please cite the corresponding papers
