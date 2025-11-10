@@ -66,9 +66,11 @@
 | 2024.12 | **RS** | MSCT-HCST | [Multiple Hierarchical Cross-Scale Transformer for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/1/42) | xxx | xxx | [N/A] |
 | 2025.01 | **TGRS** | MSCN | [Multiscale Sparse Cross-Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10820553) | xxx | xxx | [MSCN](https://github.com/TangXu-Group/Remote-Sensing-Images-Classification/tree/main/MSCN) |
 | 2025.01 | **TGRS** | XXX | [Remote Sensing Scene Classification via Pseudo-Category-Relationand Orthogonal Feature Learning](https://ieeexplore.ieee.org/document/10879025) | xxx | xxx | [N/A] |
+| 2025.01 | **JSTARS** | IRCHKD | [An Inverted Residual Cross Head Knowledge Distillation Network for Remote Sensing Scene Image Classification](https://ieeexplore.ieee.org/document/10870144) | xxx | xxx | [N/A] |
 | 2025.02 | **TGRS** | LSDGNet | [Label Semantic Dynamic Guidance Network for Remote Sensing Image Scene Classification](https://ieeexplore.ieee.org/document/10879025) | xxx | xxx | [N/A] |
 | 2025.02 | **RS** | STMSF | [STMSF: Swin Transformer with Multi-Scale Fusion for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/17/4/668) | xxx | xxx | [N/A] |
-
+| 2025.02 | **RS** | ATMformer | [ATMformer: An Adaptive Token Merging Vision Transformer for Remote Sensing Image Scene Classification](https://www.mdpi.com/2072-4292/17/4/660) | XXX | XXX | [N/A] |
+| 2025.03 | **TGRS** | SceneFormer | [SceneFormer: Neural Architecture Search of Transformers for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10942436) | XXX | XXX | [N/A] |
 
 
 
@@ -95,6 +97,8 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2025.01 | **TGRS** | SFIN | [Semantic-Assisted Feature Integration Network for Multilabel Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10802953) | XXX | XXX | [SFIN](https://github.com/TangXu-Group/multilabelRSSC/tree/main/SFIN) |
 | 2025.01 | **IEEE Transactions on Circuits and Systems for Video Technology（IEEE TCSVT）** | MLMamba | [MLMamba: A Mamba-Based Efficient Network for Multi-Label Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10857393) | XXX | XXX | [MLMamba](https://github.com/TangXu-Group/multilabelRSSC/tree/main/MLMamba) |
 | 2025.01 | **JSTARS** | CMCL | [Cross-Modal Compositional Learning for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10872829) | XXX | XXX | [N/A] |
+| 2025.01 | **CVPR 2025** | SR-based MLRSSC | [Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution](https://arxiv.org/abs/2501.06720) | XXX | XXX | [N/A] |
+
 
 ---
 
