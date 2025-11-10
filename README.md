@@ -85,12 +85,16 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
 |------|----------|-------------|--------------|----------------|-----------|---------------|
 | 2019.01 | **ISPRS** | CA-Conv-BiLSTM | [Recurrently exploring class-wise attention in a hybrid convolutional and bidirectional LSTM network for multi-label aerial image classification](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
+| 2019.04 | **CVPR 2019** | ML-GCN | [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582) | XXX | XXX | [N/A] |
 | 2019.11 | **IGARSS 2019** | LR-CNN | [Label Relation Inference for Multi-Label Aerial Image Classification](https://ieeexplore.ieee.org/document/8898934) | VGG/GoogLeNet/ResNet | Label-wise feature extraction and Label Relational inference | [N/A] |
 | 2019.12 | **TGRS** | AL-RN-CNN | [Relation Network for Multilabel Aerial Image Classification](https://ieeexplore.ieee.org/document/8986556) | VGG/GoogLeNet/ResNet | Label-wise Feature Parcels, Attentional Region Extraction, and Convolutional Relational Inference | [N/A] |
 | 2020.09 | **ISPRS** | MLRSNet | [MLRSNet: A multi-label high spatial resolution remote sensing dataset for semantic scene understanding](https://www.sciencedirect.com/science/article/pii/S0924271620302677) | - | Multi Label Benchmark | [![GitHub stars](https://img.shields.io/github/stars/cugbrs/MLRSNet?style=social)](https://github.com/cugbrs/MLRSNet) |
+| 2021.04 | **TGRS** | GRN | [Graph Relation Network: Modeling Relations Between Scenes for Multilabel Remote-Sensing Image Classification and Retrieval](https://ieeexplore.ieee.org/document/9173783) | XXX | XXX | [N/A] |
 | 2021.08 | **TGRS** | MultiScene | [MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images](https://ieeexplore.ieee.org/document/9537917) | - | Multi Label Benchmark | [MultiScene](https://gitlab.lrz.de/ai4eo/reasoning/multiscene) |
-| 2022.03 | **AAAI 2024** | MulSupCon | [Multi-Label Supervised Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29619) | XXX | XXX | [N/A] |
+| 2022.01 | **JSTARS** | SR-Net | [Transformer-Driven Semantic Relation Inference for Multilabel Classification of High-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/document/9691842) | XXX | XXX | [N/A] |
+| 2022.04 | **CVPR 2022** | MulSupCon | [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207) | XXX | XXX | [🔗 Code](https://github.com/salesforce/hierarchicalContrastiveLearning) |
 | 2022.04 | **TGRS** | SCIDA | [SCIDA: Self-Correction Integrated Domain Adaptation From Single- to Multi-Label Aerial Images](https://ieeexplore.ieee.org/document/9762917) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/Ryan315/Single2multi-DA?style=social)](https://github.com/Ryan315/Single2multi-DA) |
+| 2024.03 | **AAAI 2024** | MulSupCon | [Multi-Label Supervised Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29619) | XXX | XXX | [N/A] |
 | 2024.06 | **TGRS** | GMFANet | [Gradient-Guided Multiscale Focal Attention Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10599200) | XXX | XXX | [![GitHub stars](https://img.shields.io/github/stars/bling2beyond/GMFANet?style=social)](https://github.com/bling2beyond/GMFANet) |
 | 2024.07 | **TGRS** | Multitask Fine-Grained Feature Mining | [Multitask Fine-Grained Feature Mining for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10595130) | XXX | ML-GCN + Graph Transformer Layer + Class-Specific Feature Extraction + Multi-scale Fusion Strategy and Visual Attention Mechanism | [N/A] |
 | 2024.10 | **TGRS** | ML-HKG | [Hierarchical Knowledge Graph for Multilabel Classification of Remote Sensing Images](https://ieeexplore.ieee.org/document/10741275) | XXX | XXX | [N/A] |
@@ -99,6 +103,9 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2025.01 | **IEEE Transactions on Circuits and Systems for Video Technology（IEEE TCSVT）** | MLMamba | [MLMamba: A Mamba-Based Efficient Network for Multi-Label Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/10857393) | XXX | XXX | [MLMamba](https://github.com/TangXu-Group/multilabelRSSC/tree/main/MLMamba) |
 | 2025.01 | **JSTARS** | CMCL | [Cross-Modal Compositional Learning for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10872829) | XXX | XXX | [N/A] |
 | 2025.01 | **CVPR 2025** | SR-based MLRSSC | [Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution](https://arxiv.org/abs/2501.06720) | XXX | XXX | [N/A] |
+
+
+
 
 ---
 
@@ -113,6 +120,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
 | 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
 | 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
+| 2024.06 | **CVPR 2024** | Review Paper | [Deep Learning for Multi-Label Learning A Comprehensive Survey](https://arxiv.org/abs/2401.16549) | - | Review for MLRSSC | [N/A] |
 | 2024.10 | **航天返回与遥感** | Review Paper | [遥感影像场景分类研究进展](https://htfhyyg.spacejournal.cn/article/doi/10.3969/j.issn.1009-8518.2024.04.013) | - | Review for RSSC | [N/A] |
 | 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
 | 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] |
