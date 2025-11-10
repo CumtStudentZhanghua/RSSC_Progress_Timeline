@@ -4,14 +4,14 @@
 ---
 
 ## 📖 Table of Contents
-- [🌤️ Single-Label Methods](#-single-label-methods)
-- [🌈 Multi-Label-Methods](#-multi-label-methods)
-- [🌈 Review-Papers](#-review-papers)
-- [🖊️ Citation](#-citation)
+- [1.Single-Label Methods](#-single-label-methods)
+- [2.Multi-Label-Methods](#-multi-label-methods)
+- [3.Review-Papers](#-review-papers)
+- [4.Citation](#-citation)
 
 ---
 
-## Single-Label Methods
+## 1.Single-Label Methods
 > Single-label scene classification assigns **one category** to each image.  
 > Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
@@ -77,7 +77,7 @@
 MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 ---
 
-## Multi-Label Methods
+## 2.Multi-Label Methods
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
@@ -102,7 +102,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 
 ---
 
-## Review-Papers
+## 3.Review-Papers
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
@@ -120,5 +120,5 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 ---
 
 
-## 🖊️ Citation
+## 4.Citation
 If you use this repository, please cite the corresponding papers
