@@ -5,8 +5,8 @@
 ## 🧭 Table of Contents
 - [1️⃣ Single-Label Methods](#1️⃣-single-label-methods)
 - [2️⃣ Multi-Label Methods](#2️⃣-multi-label-methods)
-- [3️⃣ Review & Survey Papers](#review--survey-papers)
-- [4️⃣ Citation](#citation)
+- [3️⃣ Review & Survey Papers](#3️⃣-review--survey-papers)
+- [4️⃣ Citation](#4️⃣-citation)
 
 ---
 
@@ -100,7 +100,6 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2025.01 | **JSTARS** | CMCL | [Cross-Modal Compositional Learning for Multilabel Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10872829) | XXX | XXX | [N/A] |
 | 2025.01 | **CVPR 2025** | SR-based MLRSSC | [Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution](https://arxiv.org/abs/2501.06720) | XXX | XXX | [N/A] |
 
-
 ---
 
 ## 3️⃣ Review & Survey Papers
@@ -118,9 +117,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 | 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
 | 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] |
 
-
 ---
-
 
 ## 4️⃣ Citation
 If you use this repository, please cite the corresponding papers
