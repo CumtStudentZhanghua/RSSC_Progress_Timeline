@@ -1,17 +1,16 @@
-# 🛰️ RSSC_Progress_Timeline
-## Timeline and Evolution of Remote Sensing Scene Classification (RSSC)
+# 🛰️ Remote Sensing Scene Classification (RSSC) — Timeline and Evolution
 
 ---
 
-## 📖 Table of Contents
-- [1.Single-Label Methods](#-1.-single-label-methods)
-- [2.Multi-Label-Methods](#-2.-multi-label-methods)
-- [3.Review-Papers](#-3.-review-papers)
-- [4.Citation](#-4.-citation)
+## 🧭 Table of Contents
+- [1️⃣ Single-Label Methods](#1️⃣-single-label-methods)
+- [2️⃣ Multi-Label Methods](#2️⃣-multi-label-methods)
+- [3️⃣ Review & Survey Papers](#3️⃣-review--survey-papers)
+- [4️⃣ Citation](#4️⃣-citation)
 
 ---
 
-## 1.Single-Label Methods
+## 1️⃣ Single Label Methods
 > Single-label scene classification assigns **one category** to each image.  
 > Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
@@ -22,12 +21,12 @@
 | 2020.12 | **GRSL** | MSNet | [MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9302612) | ResNet50 | xxx | [N/A] |
 | 2021.01 | **Neurocomputing** | MS2AP | [Multi-scale stacking attention pooling for remote sensing scene classification](https://www.sciencedirect.com/science/article/pii/S092523122100059X) | AlexNet/VGG16 | The final CNN feature map (f4) is enhanced by multi-scale dilated convolutions, concatenation, and a residual CBAM module for the final classification | [N/A] |
 | 2021.01 | **European Journal of Remote Sensing** | H-GCN | [Remote sensing scene classification based on high-order graph convolutional network](https://www.tandfonline.com/doi/full/10.1080/22797254.2020.1868273?utm_source=researchgate.net&medium=article) | DenseNet121 | Attention-enhanced CNN features combined with high-order GCN over semantic classes | [N/A] |
-| 2021.01 | **JSTARS** | ACNet | [Attention Consistent Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9324913) | VGG16 | ACNet enforces consistency of visual attention between rotated image pairs while leveraging parallel channel and spatial attention | [![GitHub stars](https://img.shields.io/github/stars/TangXu-Group/Remote-Sensing-Images-Classification/tree/main/GLCnet?style=social)](https://github.com/TangXu-Group/Remote-Sensing-Images-Classification/tree/main/GLCnet) |
+| 2021.01 | **JSTARS** | ACNet | [Attention Consistent Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9324913) | VGG16 | ACNet enforces consistency of visual attention between rotated image pairs while leveraging parallel channel and spatial attention | [🔗 Code](https://github.com/TangXu-Group/Remote-Sensing-Images-Classification/tree/main/GLCnet) |
 | 2021.01 | **遥感学报** | CGDSN | [基于CNN-GCN双流网络的高分辨率遥感影像场景分类](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20210587/) | DenseNet121 and VGG16 | A dual-stream CNN-GCN network that combines global CNN features with local GCN-based context features | [N/A] |
 | 2021.03 | **TNNLS** | DFAGCN | [Deep Feature Aggregation Framework Driven by Graph Convolutional Network for Scene Classification in Remote Sensing](https://ieeexplore.ieee.org/document/9405447) | XXX | XXX | [N/A] |
 | 2021.04 | **JSTARS** | SEMSDNet | [SEMSDNet: A Multiscale Dense Network With Attention for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9411657) | DenseNet | Design a multi-scale dense connection fusion module, and integrate SE attention blocks after the transition layer in the DenseNet backbone| [N/A] |
 | 2021.10 | **RS** | TRS | [TRS: Transformers for Remote Sensing Scene Classification](https://www.mdpi.com/2072-4292/13/20/4143) | ResNet50 | Replace 3x3 convolution with MHSA in Stage3, use transformer encoder x12 to enhanced the feature map f4 | [N/A] |
-| 2021.10 | **ICCV 2021** | CrossViT | [CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification](https://ieeexplore.ieee.org/document/9711309) | ViT | CrossViT uses two branches with different patch sizes and fuses them via cross-attention between CLS and patch tokens to capture multi-scale features for classification. | [![GitHub stars](https://img.shields.io/github/stars/IBM/CrossViT?style=social)](https://github.com/IBM/CrossViT) |
+| 2021.10 | **ICCV 2021** | CrossViT | [CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification](https://ieeexplore.ieee.org/document/9711309) | ViT | CrossViT uses two branches with different patch sizes and fuses them via cross-attention between CLS and patch tokens to capture multi-scale features for classification. | [🔗 Code](https://github.com/IBM/CrossViT) |
 | 2021.11 | **TIP** | MBLANet | [Remote Sensing Scene Classification via Multi-Branch Local Attention Network](https://ieeexplore.ieee.org/document/9619948) | ResNet50 | Design a multi-branch local attention module, channel attention and local spatial attention in parallel, integrated in the everyblock of ResNet50 backbone | [N/A] |
 | 2021.12 | **JSTARS** | RANet | [Relation-Attention Networks for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9652121) | xxx | xxx | [N/A] |
 | 2022.01 | **JSTARS** | GCSANet | [GCSANet: A Global Context Spatial Attention Deep Learning Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/abstract/document/9678028) | DenseNet121 | Using mixup data augmentation method, and design a global context spatial attention module which is integrated into the everybolck of DenseNet121 | [![GitHub stars](https://img.shields.io/github/stars/ShubingOuyangcug/GCSANet?style=social)](https://github.com/ShubingOuyangcug/GCSANet) |
@@ -79,7 +78,7 @@
 MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 ---
 
-## 2.Multi-Label Methods
+## 2️⃣ Multi Label Methods
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
@@ -104,7 +103,7 @@ MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification
 
 ---
 
-## 3.Review-Papers
+## 4️⃣ Review Papers
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
