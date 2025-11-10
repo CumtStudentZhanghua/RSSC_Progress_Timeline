@@ -5,8 +5,8 @@
 ## 🧭 Table of Contents
 - [1️⃣ Single-Label Methods](#1️⃣-single-label-methods)
 - [2️⃣ Multi-Label Methods](#2️⃣-multi-label-methods)
-- [3️⃣ Review & Survey Papers](#3️⃣-review--survey-papers)
-- [4️⃣ Citation](#4️⃣-citation)
+- [3️⃣ Review & Survey Papers](#review--survey-papers)
+- [4️⃣ Citation](#citation)
 
 ---
 
