@@ -113,17 +113,17 @@
 > Multi-label scene classification allows **multiple categories per image**,  
 > reflecting complex land-use mixtures and semantic correlations between classes.
 
-| Time | Publication | Model | Paper Title | Visual Encoder | Key Idea | Code/Project |
-|------|----------|-------------|--------------|----------------|-----------|---------------|
-| 2019.05 | **Applied Sciences** | Review Paper | [A Survey on Deep Learning-Driven Remote Sensing Image Scene Understanding: Scene Classification, Scene Retrieval and Scene-Guided Object Detection](https://www.mdpi.com/2076-3417/9/10/2110) | - | Review for RSSC | [N/A] |
-| 2020.06 | **JSTARS** | Review Paper | [Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities](https://ieeexplore.ieee.org/document/9127795) | - | Review for RSSC | [N/A] |
-| 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] |
-| 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] |
-| 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] |
-| 2024.06 | **CVPR 2024** | Review Paper | [Deep Learning for Multi-Label Learning A Comprehensive Survey](https://arxiv.org/abs/2401.16549) | - | Review for MLRSSC | [N/A] |
-| 2024.10 | **航天返回与遥感** | Review Paper | [遥感影像场景分类研究进展](https://htfhyyg.spacejournal.cn/article/doi/10.3969/j.issn.1009-8518.2024.04.013) | - | Review for RSSC | [N/A] |
-| 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] |
-| 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] |
+| **Time** | **Publication** | **Model** | **Paper Title** | **Visual Encoder** | **Key Idea** | **Code/Project** | **Read** |
+|------|----------|-------------|--------------|----------------|-----------|---------------|---------------|
+| 2019.05 | **Applied Sciences** | Review Paper | [A Survey on Deep Learning-Driven Remote Sensing Image Scene Understanding: Scene Classification, Scene Retrieval and Scene-Guided Object Detection](https://www.mdpi.com/2076-3417/9/10/2110) | - | Review for RSSC | [N/A] | ✅ |
+| 2020.06 | **JSTARS** | Review Paper | [Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities](https://ieeexplore.ieee.org/document/9127795) | - | Review for RSSC | [N/A] | ❌ |
+| 2021.01 | **fafa** | Benchmark | [Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation](https://www.sciencedirect.com/science/article/pii/S0924271619300243) | VGG/GoogLeNet/ResNet + LSTM | Class-specific attention for finding key visual cues, and bidirectional LSTM for modeling label dependencies | [N/A] | ❌ |
+| 2023.09 | **中国图象图形学报** | Review Paper | [Transformer驱动的图像分类研究进展](https://www.cjig.cn/en/article/doi/10.11834/jig.220799/) | - | Review for RSSC | [N/A] | ❌ |
+| 2023.09 | **RS** | Review Paper | [Deep Learning for Remote Sensing Image Scene Classification: A Review and Meta-Analysis](https://www.mdpi.com/2072-4292/15/19/4804) | - | Review for RSSC | [N/A] | ❌ |
+| 2024.06 | **CVPR 2024** | Review Paper | [Deep Learning for Multi-Label Learning A Comprehensive Survey](https://arxiv.org/abs/2401.16549) | - | Review for MLRSSC | [N/A] | ❌ |
+| 2024.10 | **航天返回与遥感** | Review Paper | [遥感影像场景分类研究进展](https://htfhyyg.spacejournal.cn/article/doi/10.3969/j.issn.1009-8518.2024.04.013) | - | Review for RSSC | [N/A] | ❌ |
+| 2024.11 | **遥感学报** | Review Paper | [高分辨率遥感图像场景分类研究进展](https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20243519/) | - | Review for RSSC | [N/A] | ❌ |
+| 2024.12 | **Engineering Applications of Artificial Intelligence** | Review Paper | [Lightweight deep learning models for aerial scene classification: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0952197624020189?via%3Dihub) | - | Review for RSSC | [N/A] | ❌ |
 
 ---
 
