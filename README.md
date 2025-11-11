@@ -12,7 +12,6 @@
 
 ## 1️⃣ Single Label Methods
 > Single-label scene classification assigns **one category** to each image.  
-> Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
 | **Time** | **Publication** | **Model** | **Paper Title** | **Visual Encoder** | **Key Idea** | **Code/Project** | **Read** |
 |------|----------|-------------|--------------|----------------|-----------|---------------|---------------|
