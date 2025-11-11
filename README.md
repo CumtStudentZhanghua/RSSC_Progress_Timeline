@@ -15,7 +15,7 @@
 > Early research relied on convolutional neural networks (CNNs), later evolving into Transformer-based and foundation models.
 
 | **Time** | **Publication** | **Model** | **Paper Title** | **Visual Encoder** | **Key Idea** | **Code/Project** | **Read** |
-|------|----------|-------------|--------------|----------------|-----------|---------------|
+|------|----------|-------------|--------------|----------------|-----------|---------------|---------------|
 | 2020.09 | **IGARSS 2020** | GLC | [Remote Sensing Scene Classification Based on Global and Local Consistent Network](https://ieeexplore.ieee.org/document/9323281) | VGG16 | It uses a weight-shared Siamese network on 180° rotated image pairs, combines global features from f4 and local features from SEBlock, and employs an attention consistency loss | [N/A] | ✅ |
 | 2020.12 | **TGRS** | EFPN-DSE-TDFF | [Enhanced Feature Pyramid Network With Deep Semantic Embedding for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9314283) | ResNet34 | Enhanced Feature Pyramid Network, Deep Semantic Embedding, and Two-Branch Deep Feature Fusion | [N/A] | ❌ |
 | 2020.12 | **GRSL** | MSNet | [MSNet: A Multiple Supervision Network for Remote Sensing Scene Classification](https://ieeexplore.ieee.org/document/9302612) | ResNet50 | xxx | [N/A] | ❌ |
