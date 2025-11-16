@@ -1,4 +1,4 @@
-# 🛰️ Remote Sensing Scene Classification (RSSC) — Timeline and Evolution
+# Remote Sensing Scene Classification (RSSC) — Timeline and Evolution
 
 ---
 
